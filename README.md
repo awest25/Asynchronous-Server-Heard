@@ -40,6 +40,6 @@ Detailed in `Server_Heard_Feasibility.pdf` is the feasibility report for using `
 
 ## Quick Start
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the directory: `cd <repository-directory>`
+1. Clone the repository: `git clone github.com/awest25/Asynchronous-Server-Heard`
+2. Navigate to the directory: `cd Asynchronous-Server-Heard`
 3. Start a server: `python3 server.py <server_name>`
